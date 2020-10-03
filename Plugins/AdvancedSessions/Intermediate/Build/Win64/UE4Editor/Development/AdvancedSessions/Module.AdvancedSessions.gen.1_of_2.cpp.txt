@@ -1,9 +1,9 @@
-C:\Users\Thunder\workspace\GameStuff\ForSakenFuture\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Definitions.AdvancedSessions.h
-C:/Users/Thunder/workspace/GameStuff/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedExternalUILibrary.gen.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Definitions.AdvancedSessions.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedExternalUILibrary.gen.cpp
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\Thunder\workspace\GameStuff\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/AdvancedExternalUILibrary.h
-c:\users\thunder\workspace\gamestuff\forsakenfuture\plugins\advancedsessions\source\advancedsessions\classes\BlueprintDataDefinitions.h
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/AdvancedExternalUILibrary.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\source\advancedsessions\classes\BlueprintDataDefinitions.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerState.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerState.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineSessionInterface.h
@@ -140,21 +140,17 @@ C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Online\OnlineSubsystemUtils\S
 c:\program files\epic games\ue_4.24\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\ShowLoginUICallbackProxy.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/TurnBasedBlueprintLibrary.h
 c:\program files\epic games\ue_4.24\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\TurnBasedBlueprintLibrary.generated.h
-c:\users\thunder\workspace\gamestuff\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\BlueprintDataDefinitions.generated.h
-c:\users\thunder\workspace\gamestuff\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\AdvancedExternalUILibrary.generated.h
-C:/Users/Thunder/workspace/GameStuff/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedFriendsGameInstance.gen.cpp
-C:\Users\Thunder\workspace\GameStuff\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/AdvancedFriendsGameInstance.h
-c:\users\thunder\workspace\gamestuff\forsakenfuture\plugins\advancedsessions\source\advancedsessions\classes\AdvancedFriendsInterface.h
-c:\users\thunder\workspace\gamestuff\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\AdvancedFriendsInterface.generated.h
-c:\users\thunder\workspace\gamestuff\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\AdvancedFriendsGameInstance.generated.h
-C:/Users/Thunder/workspace/GameStuff/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedFriendsInterface.gen.cpp
-C:/Users/Thunder/workspace/GameStuff/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedFriendsLibrary.gen.cpp
-C:\Users\Thunder\workspace\GameStuff\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/AdvancedFriendsLibrary.h
-c:\users\thunder\workspace\gamestuff\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\AdvancedFriendsLibrary.generated.h
-C:/Users/Thunder/workspace/GameStuff/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedIdentityLibrary.gen.cpp
-C:\Users\Thunder\workspace\GameStuff\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/AdvancedIdentityLibrary.h
-c:\users\thunder\workspace\gamestuff\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\AdvancedIdentityLibrary.generated.h
-C:/Users/Thunder/workspace/GameStuff/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedSessions.init.gen.cpp
-C:/Users/Thunder/workspace/GameStuff/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedSessionsLibrary.gen.cpp
-C:\Users\Thunder\workspace\GameStuff\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/AdvancedSessionsLibrary.h
-c:\users\thunder\workspace\gamestuff\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\AdvancedSessionsLibrary.generated.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\BlueprintDataDefinitions.generated.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\AdvancedExternalUILibrary.generated.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedFriendsGameInstance.gen.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/AdvancedFriendsGameInstance.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\source\advancedsessions\classes\AdvancedFriendsInterface.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\AdvancedFriendsInterface.generated.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\AdvancedFriendsGameInstance.generated.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedFriendsInterface.gen.cpp
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedFriendsLibrary.gen.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/AdvancedFriendsLibrary.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\AdvancedFriendsLibrary.generated.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSessions/AdvancedIdentityLibrary.gen.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/AdvancedIdentityLibrary.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\intermediate\build\win64\ue4editor\inc\advancedsessions\AdvancedIdentityLibrary.generated.h

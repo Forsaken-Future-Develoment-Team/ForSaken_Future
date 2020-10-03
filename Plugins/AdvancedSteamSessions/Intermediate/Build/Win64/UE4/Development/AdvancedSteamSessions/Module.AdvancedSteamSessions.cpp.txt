@@ -1,7 +1,7 @@
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h
-C:/Users/Thunder/WorkSpace/UnrealProjects/ForSakenFuture/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamFriendsLibrary.cpp
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamFriendsLibrary.h
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamFriendsLibrary.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamFriendsLibrary.h
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerState.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\PlayerState.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineSessionInterface.h
@@ -138,7 +138,7 @@ C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Online\OnlineSubsystemUtils\S
 c:\program files\epic games\ue_4.24\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4\inc\onlinesubsystemutils\ShowLoginUICallbackProxy.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/TurnBasedBlueprintLibrary.h
 c:\program files\epic games\ue_4.24\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4\inc\onlinesubsystemutils\TurnBasedBlueprintLibrary.generated.h
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSessions\BlueprintDataDefinitions.generated.h
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSessions\BlueprintDataDefinitions.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\ThirdParty\Steamworks\Steamv146\sdk\public\steam/steam_api.h
 c:\program files\epic games\ue_4.24\engine\source\thirdparty\steamworks\steamv146\sdk\public\steam\steam_api_common.h
 c:\program files\epic games\ue_4.24\engine\source\thirdparty\steamworks\steamv146\sdk\public\steam\steamtypes.h
@@ -169,18 +169,10 @@ c:\program files\epic games\ue_4.24\engine\source\thirdparty\steamworks\steamv14
 c:\program files\epic games\ue_4.24\engine\source\thirdparty\steamworks\steamv146\sdk\public\steam\isteamvideo.h
 c:\program files\epic games\ue_4.24\engine\source\thirdparty\steamworks\steamv146\sdk\public\steam\isteamparentalsettings.h
 c:\program files\epic games\ue_4.24\engine\source\thirdparty\steamworks\steamv146\sdk\public\steam\isteamremoteplay.h
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions\AdvancedSteamFriendsLibrary.generated.h
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\OnlineSubSystemHeader.h
-C:/Users/Thunder/WorkSpace/UnrealProjects/ForSakenFuture/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamSessions.cpp
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamSessions.h
-C:/Users/Thunder/WorkSpace/UnrealProjects/ForSakenFuture/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamWorkshopLibrary.cpp
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamWorkshopLibrary.h
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions\AdvancedSteamWorkshopLibrary.generated.h
-C:/Users/Thunder/WorkSpace/UnrealProjects/ForSakenFuture/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/SteamRequestGroupOfficersCallbackProxy.cpp
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\SteamRequestGroupOfficersCallbackProxy.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteam.h
-c:\program files\epic games\ue_4.24\engine\plugins\online\onlinesubsystemsteam\source\public\OnlineSubsystemSteamPackage.h
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions\SteamRequestGroupOfficersCallbackProxy.generated.h
-C:/Users/Thunder/WorkSpace/UnrealProjects/ForSakenFuture/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/SteamWSRequestUGCDetailsCallbackProxy.cpp
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\SteamWSRequestUGCDetailsCallbackProxy.h
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions\SteamWSRequestUGCDetailsCallbackProxy.generated.h
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions\AdvancedSteamFriendsLibrary.generated.h
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\OnlineSubSystemHeader.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamSessions.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamSessions.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamWorkshopLibrary.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamWorkshopLibrary.h
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions\AdvancedSteamWorkshopLibrary.generated.h

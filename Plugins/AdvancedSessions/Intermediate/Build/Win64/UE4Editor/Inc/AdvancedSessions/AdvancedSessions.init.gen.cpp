@@ -33,7 +33,7 @@ void EmptyLinkFunctionForGeneratedCodeAdvancedSessions_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x13FDFD7A,
+				0x139E1313,
 				0xE4B3F93E,
 				METADATA_PARAMS(nullptr, 0)
 			};

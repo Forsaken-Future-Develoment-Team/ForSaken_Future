@@ -29,7 +29,7 @@
 /wd4838
 /we4668
 /I .
-/I C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private
+/I C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4\Inc\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -125,13 +125,13 @@
 /I Runtime\AudioMixerCore\Public
 /I ..\Intermediate\Build\Win64\UE4\Inc\AnimationCore
 /I Runtime\AnimationCore\Public
-/I C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions
-/I C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSteamSessions\Source
+/I C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions
+/I C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSteamSessions\Source
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Private
-/I C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes
-/I C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSessions
-/I C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSessions\Source
-/I C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes
+/I C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes
+/I C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSessions
+/I C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source
+/I C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes
 /I ThirdParty\Steamworks\Steamv146\sdk\public
 /I ..\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4\Inc\OnlineSubsystemSteam
 /I ..\Plugins\Online\OnlineSubsystemSteam
@@ -167,12 +167,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
 /D_HAS_EXCEPTIONS=0
-/FI"C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Intermediate\Build\Win64\ForSakenFuture\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Intermediate\Build\Win64\ForSakenFuture\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Intermediate\Build\Win64\ForSakenFuture\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp"
-/FI"C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
-/Fo"C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+/FI"C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Intermediate\Build\Win64\ForSakenFuture\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Intermediate\Build\Win64\ForSakenFuture\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Intermediate\Build\Win64\ForSakenFuture\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp"
+/FI"C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
+/Fo"C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
 /TP
 /GR-
 /W4

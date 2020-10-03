@@ -34,7 +34,7 @@
 #define WITH_CEF3 1
 #define WITH_LIVE_CODING 1
 #define UE_LIVE_CODING_ENGINE_DIR "C:\\Program Files\\Epic Games\\UE_4.24\\Engine"
-#define UE_LIVE_CODING_PROJECT "C:\\Users\\Thunder\\WorkSpace\\UnrealProjects\\ForSakenFuture\\ForSakenFuture.uproject"
+#define UE_LIVE_CODING_PROJECT "C:\\Users\\Thunder\\Documents\\GitHub\\ForSaken_Future\\ForSakenFuture.uproject"
 #define WITH_XGE_CONTROLLER 0
 #define UBT_MODULE_MANIFEST "UE4.modules"
 #define UBT_MODULE_MANIFEST_DEBUGGAME "UE4-Win64-DebugGame.modules"

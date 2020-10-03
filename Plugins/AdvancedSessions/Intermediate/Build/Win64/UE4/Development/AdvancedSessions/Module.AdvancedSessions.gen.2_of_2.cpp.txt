@@ -1,9 +1,9 @@
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSessions\Definitions.AdvancedSessions.h
-C:/Users/Thunder/WorkSpace/UnrealProjects/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/AdvancedVoiceLibrary.gen.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSessions\Definitions.AdvancedSessions.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/AdvancedVoiceLibrary.gen.cpp
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/AdvancedVoiceLibrary.h
-c:\users\thunder\workspace\unrealprojects\forsakenfuture\plugins\advancedsessions\source\advancedsessions\classes\BlueprintDataDefinitions.h
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/AdvancedVoiceLibrary.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\source\advancedsessions\classes\BlueprintDataDefinitions.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerState.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\PlayerState.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineSessionInterface.h
@@ -140,42 +140,42 @@ C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Online\OnlineSubsystemUtils\S
 c:\program files\epic games\ue_4.24\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4\inc\onlinesubsystemutils\ShowLoginUICallbackProxy.generated.h
 C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/TurnBasedBlueprintLibrary.h
 c:\program files\epic games\ue_4.24\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4\inc\onlinesubsystemutils\TurnBasedBlueprintLibrary.generated.h
-c:\users\thunder\workspace\unrealprojects\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\BlueprintDataDefinitions.generated.h
-c:\users\thunder\workspace\unrealprojects\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\AdvancedVoiceLibrary.generated.h
-C:/Users/Thunder/WorkSpace/UnrealProjects/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/BlueprintDataDefinitions.gen.cpp
-C:/Users/Thunder/WorkSpace/UnrealProjects/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/CancelFindSessionsCallbackProxy.gen.cpp
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/CancelFindSessionsCallbackProxy.h
-c:\users\thunder\workspace\unrealprojects\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\CancelFindSessionsCallbackProxy.generated.h
-C:/Users/Thunder/WorkSpace/UnrealProjects/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/CreateSessionCallbackProxyAdvanced.gen.cpp
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/CreateSessionCallbackProxyAdvanced.h
-c:\users\thunder\workspace\unrealprojects\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\CreateSessionCallbackProxyAdvanced.generated.h
-C:/Users/Thunder/WorkSpace/UnrealProjects/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/EndSessionCallbackProxy.gen.cpp
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/EndSessionCallbackProxy.h
-c:\users\thunder\workspace\unrealprojects\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\EndSessionCallbackProxy.generated.h
-C:/Users/Thunder/WorkSpace/UnrealProjects/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/FindFriendSessionCallbackProxy.gen.cpp
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/FindFriendSessionCallbackProxy.h
-c:\users\thunder\workspace\unrealprojects\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\FindFriendSessionCallbackProxy.generated.h
-C:/Users/Thunder/WorkSpace/UnrealProjects/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/FindSessionsCallbackProxyAdvanced.gen.cpp
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/FindSessionsCallbackProxyAdvanced.h
-c:\users\thunder\workspace\unrealprojects\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\FindSessionsCallbackProxyAdvanced.generated.h
-C:/Users/Thunder/WorkSpace/UnrealProjects/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/GetFriendsCallbackProxy.gen.cpp
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/GetFriendsCallbackProxy.h
-c:\users\thunder\workspace\unrealprojects\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\GetFriendsCallbackProxy.generated.h
-C:/Users/Thunder/WorkSpace/UnrealProjects/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/GetRecentPlayersCallbackProxy.gen.cpp
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/GetRecentPlayersCallbackProxy.h
-c:\users\thunder\workspace\unrealprojects\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\GetRecentPlayersCallbackProxy.generated.h
-C:/Users/Thunder/WorkSpace/UnrealProjects/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/GetUserPrivilegeCallbackProxy.gen.cpp
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/GetUserPrivilegeCallbackProxy.h
-c:\users\thunder\workspace\unrealprojects\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\GetUserPrivilegeCallbackProxy.generated.h
-C:/Users/Thunder/WorkSpace/UnrealProjects/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/LoginUserCallbackProxy.gen.cpp
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/LoginUserCallbackProxy.h
-c:\users\thunder\workspace\unrealprojects\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\LoginUserCallbackProxy.generated.h
-C:/Users/Thunder/WorkSpace/UnrealProjects/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/LogoutUserCallbackProxy.gen.cpp
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/LogoutUserCallbackProxy.h
-c:\users\thunder\workspace\unrealprojects\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\LogoutUserCallbackProxy.generated.h
-C:/Users/Thunder/WorkSpace/UnrealProjects/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/SendFriendInviteCallbackProxy.gen.cpp
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/SendFriendInviteCallbackProxy.h
-c:\users\thunder\workspace\unrealprojects\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\SendFriendInviteCallbackProxy.generated.h
-C:/Users/Thunder/WorkSpace/UnrealProjects/ForSakenFuture/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/UpdateSessionCallbackProxyAdvanced.gen.cpp
-C:\Users\Thunder\WorkSpace\UnrealProjects\ForSakenFuture\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/UpdateSessionCallbackProxyAdvanced.h
-c:\users\thunder\workspace\unrealprojects\forsakenfuture\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\UpdateSessionCallbackProxyAdvanced.generated.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\BlueprintDataDefinitions.generated.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\AdvancedVoiceLibrary.generated.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/BlueprintDataDefinitions.gen.cpp
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/CancelFindSessionsCallbackProxy.gen.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/CancelFindSessionsCallbackProxy.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\CancelFindSessionsCallbackProxy.generated.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/CreateSessionCallbackProxyAdvanced.gen.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/CreateSessionCallbackProxyAdvanced.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\CreateSessionCallbackProxyAdvanced.generated.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/EndSessionCallbackProxy.gen.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/EndSessionCallbackProxy.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\EndSessionCallbackProxy.generated.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/FindFriendSessionCallbackProxy.gen.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/FindFriendSessionCallbackProxy.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\FindFriendSessionCallbackProxy.generated.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/FindSessionsCallbackProxyAdvanced.gen.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/FindSessionsCallbackProxyAdvanced.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\FindSessionsCallbackProxyAdvanced.generated.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/GetFriendsCallbackProxy.gen.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/GetFriendsCallbackProxy.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\GetFriendsCallbackProxy.generated.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/GetRecentPlayersCallbackProxy.gen.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/GetRecentPlayersCallbackProxy.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\GetRecentPlayersCallbackProxy.generated.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/GetUserPrivilegeCallbackProxy.gen.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/GetUserPrivilegeCallbackProxy.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\GetUserPrivilegeCallbackProxy.generated.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/LoginUserCallbackProxy.gen.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/LoginUserCallbackProxy.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\LoginUserCallbackProxy.generated.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/LogoutUserCallbackProxy.gen.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/LogoutUserCallbackProxy.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\LogoutUserCallbackProxy.generated.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/SendFriendInviteCallbackProxy.gen.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/SendFriendInviteCallbackProxy.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\SendFriendInviteCallbackProxy.generated.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/UpdateSessionCallbackProxyAdvanced.gen.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSessions\Source\AdvancedSessions/Classes/UpdateSessionCallbackProxyAdvanced.h
+c:\users\thunder\documents\github\forsaken_future\plugins\advancedsessions\intermediate\build\win64\ue4\inc\advancedsessions\UpdateSessionCallbackProxyAdvanced.generated.h

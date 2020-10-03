@@ -682,10 +682,10 @@ void EmptyLinkFunctionForGeneratedCodeAdvancedSessionsLibrary() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UAdvancedSessionsLibrary_GetSessionPropertyBool_Statics::Function_MetaDataParams[] = {
 		{ "Category", "Online|AdvancedSessions|SessionInfo" },
-		{ "Comment", "// Get session custom information key/value as Bool\n" },
+		{ "Comment", "// Get session custom information key/value as Bool\n// Steam only currently supports Int,Float,String,BYTE values for search filtering!!!\n" },
 		{ "ExpandEnumAsExecs", "SearchResult" },
 		{ "ModuleRelativePath", "Classes/AdvancedSessionsLibrary.h" },
-		{ "ToolTip", "Get session custom information key/value as Bool" },
+		{ "ToolTip", "Get session custom information key/value as Bool\nSteam only currently supports Int,Float,String,BYTE values for search filtering!!!" },
 	};
 #endif
 	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_UAdvancedSessionsLibrary_GetSessionPropertyBool_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UAdvancedSessionsLibrary, nullptr, "GetSessionPropertyBool", nullptr, nullptr, sizeof(AdvancedSessionsLibrary_eventGetSessionPropertyBool_Parms), Z_Construct_UFunction_UAdvancedSessionsLibrary_GetSessionPropertyBool_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_UAdvancedSessionsLibrary_GetSessionPropertyBool_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04422401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UAdvancedSessionsLibrary_GetSessionPropertyBool_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_UAdvancedSessionsLibrary_GetSessionPropertyBool_Statics::Function_MetaDataParams)) };
@@ -1499,9 +1499,9 @@ void EmptyLinkFunctionForGeneratedCodeAdvancedSessionsLibrary() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UAdvancedSessionsLibrary_MakeLiteralSessionPropertyBool_Statics::Function_MetaDataParams[] = {
 		{ "Category", "Online|AdvancedSessions|SessionInfo|Literals" },
-		{ "Comment", "// Make a literal session custom information key/value pair from Bool\n" },
+		{ "Comment", "// Make a literal session custom information key/value pair from Bool\n// Steam only currently supports Int,Float,String,BYTE values for search filtering!\n" },
 		{ "ModuleRelativePath", "Classes/AdvancedSessionsLibrary.h" },
-		{ "ToolTip", "Make a literal session custom information key/value pair from Bool" },
+		{ "ToolTip", "Make a literal session custom information key/value pair from Bool\nSteam only currently supports Int,Float,String,BYTE values for search filtering!" },
 	};
 #endif
 	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_UAdvancedSessionsLibrary_MakeLiteralSessionPropertyBool_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UAdvancedSessionsLibrary, nullptr, "MakeLiteralSessionPropertyBool", nullptr, nullptr, sizeof(AdvancedSessionsLibrary_eventMakeLiteralSessionPropertyBool_Parms), Z_Construct_UFunction_UAdvancedSessionsLibrary_MakeLiteralSessionPropertyBool_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_UAdvancedSessionsLibrary_MakeLiteralSessionPropertyBool_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x14022401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UAdvancedSessionsLibrary_MakeLiteralSessionPropertyBool_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_UAdvancedSessionsLibrary_MakeLiteralSessionPropertyBool_Statics::Function_MetaDataParams)) };
@@ -1848,7 +1848,7 @@ void EmptyLinkFunctionForGeneratedCodeAdvancedSessionsLibrary() {}
 		{ &Z_Construct_UFunction_UAdvancedSessionsLibrary_GetNumberOfNetworkPlayers, "GetNumberOfNetworkPlayers" }, // 685878808
 		{ &Z_Construct_UFunction_UAdvancedSessionsLibrary_GetPlayerName, "GetPlayerName" }, // 4268587624
 		{ &Z_Construct_UFunction_UAdvancedSessionsLibrary_GetSessionID_AsString, "GetSessionID_AsString" }, // 2474695154
-		{ &Z_Construct_UFunction_UAdvancedSessionsLibrary_GetSessionPropertyBool, "GetSessionPropertyBool" }, // 1424719613
+		{ &Z_Construct_UFunction_UAdvancedSessionsLibrary_GetSessionPropertyBool, "GetSessionPropertyBool" }, // 2455429413
 		{ &Z_Construct_UFunction_UAdvancedSessionsLibrary_GetSessionPropertyByte, "GetSessionPropertyByte" }, // 2972138119
 		{ &Z_Construct_UFunction_UAdvancedSessionsLibrary_GetSessionPropertyFloat, "GetSessionPropertyFloat" }, // 989409862
 		{ &Z_Construct_UFunction_UAdvancedSessionsLibrary_GetSessionPropertyInt, "GetSessionPropertyInt" }, // 3803654134
@@ -1863,7 +1863,7 @@ void EmptyLinkFunctionForGeneratedCodeAdvancedSessionsLibrary() {}
 		{ &Z_Construct_UFunction_UAdvancedSessionsLibrary_IsPlayerInSession, "IsPlayerInSession" }, // 851321623
 		{ &Z_Construct_UFunction_UAdvancedSessionsLibrary_IsValidSession, "IsValidSession" }, // 3214594172
 		{ &Z_Construct_UFunction_UAdvancedSessionsLibrary_IsValidUniqueNetID, "IsValidUniqueNetID" }, // 1395893657
-		{ &Z_Construct_UFunction_UAdvancedSessionsLibrary_MakeLiteralSessionPropertyBool, "MakeLiteralSessionPropertyBool" }, // 4141155793
+		{ &Z_Construct_UFunction_UAdvancedSessionsLibrary_MakeLiteralSessionPropertyBool, "MakeLiteralSessionPropertyBool" }, // 3673990106
 		{ &Z_Construct_UFunction_UAdvancedSessionsLibrary_MakeLiteralSessionPropertyByte, "MakeLiteralSessionPropertyByte" }, // 2714897892
 		{ &Z_Construct_UFunction_UAdvancedSessionsLibrary_MakeLiteralSessionPropertyFloat, "MakeLiteralSessionPropertyFloat" }, // 2327486812
 		{ &Z_Construct_UFunction_UAdvancedSessionsLibrary_MakeLiteralSessionPropertyInt, "MakeLiteralSessionPropertyInt" }, // 479680762
@@ -1905,7 +1905,7 @@ void EmptyLinkFunctionForGeneratedCodeAdvancedSessionsLibrary() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UAdvancedSessionsLibrary, 87621475);
+	IMPLEMENT_CLASS(UAdvancedSessionsLibrary, 3710122121);
 	template<> ADVANCEDSESSIONS_API UClass* StaticClass<UAdvancedSessionsLibrary>()
 	{
 		return UAdvancedSessionsLibrary::StaticClass();
