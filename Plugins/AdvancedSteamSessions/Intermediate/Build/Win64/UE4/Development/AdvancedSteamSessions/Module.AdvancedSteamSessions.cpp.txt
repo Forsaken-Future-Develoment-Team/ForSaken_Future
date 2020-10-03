@@ -176,3 +176,11 @@ C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSteamSessions\
 C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamWorkshopLibrary.cpp
 C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamWorkshopLibrary.h
 C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions\AdvancedSteamWorkshopLibrary.generated.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/SteamRequestGroupOfficersCallbackProxy.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\SteamRequestGroupOfficersCallbackProxy.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteam.h
+c:\program files\epic games\ue_4.24\engine\plugins\online\onlinesubsystemsteam\source\public\OnlineSubsystemSteamPackage.h
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions\SteamRequestGroupOfficersCallbackProxy.generated.h
+C:/Users/Thunder/Documents/GitHub/ForSaken_Future/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/SteamWSRequestUGCDetailsCallbackProxy.cpp
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\SteamWSRequestUGCDetailsCallbackProxy.h
+C:\Users\Thunder\Documents\GitHub\ForSaken_Future\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions\SteamWSRequestUGCDetailsCallbackProxy.generated.h
